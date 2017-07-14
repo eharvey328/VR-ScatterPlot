@@ -623,11 +623,14 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Build: 1
+    Collab: 1
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 4f1b68f2-ffb6-458a-b0c9-eed675e14e14
+  projectName: Eric's DV
+  organizationId: fancyteam
   cloudEnabled: 0
   enableNewInputSystem: 0
